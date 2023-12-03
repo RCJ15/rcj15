@@ -1,4 +1,4 @@
-### Hi there 👋
+### Did you know that a Rhombicosidodecahedron has 62 sides? It's amazing!
 
 <!--
 **RCJ15/rcj15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
