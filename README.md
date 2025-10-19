@@ -1,22 +1,17 @@
-### ⚡ <ins>Fun Fact:</ins> Did you know that a Rhombicosidodecahedron has 62 sides? Woah, now that's what I call groundbreaking!
+Hello, I am <b>RCJ15</b>. I like to create video games and compose music sometimes.<br>
 
-Anyways welcome to my Github profile. I am <b>RCJ15</b>, a guy who creates video games and composes music sometimes.<br>
-Why do I do the things I do? Well simply because I find it very ✨ _FUN_ ✨.
+[Play my games](https://rcj15.itch.io/)<br>
 
-Do I have any portfolio that I can use to show you how good I am at my hobbies?<br>
-Nope, not at all, but you can play my games on my Itch profile if you're interested for some reason:<br>
-https://rcj15.itch.io/
+If you for some reason want to collab message me on [twitter](https://twitter.com/RCJ15dev)<br>
 
-# 🔨 What I'm Currently Making 🔨
-<b>🎮 <ins>VIDEO GAMES!</ins></b><br>
-I'm working on 2 games currently:
-- A group project scary game (which name I am keeping a secret)
-- And Martin Eternal, a fast-paced singleplayer action FPS game based on oldschool Doom.
-
-<b>🎶 <ins>MUSIC!</ins></b><br>
-Yea I sometimes make music.<br>
-I'm the main composer and sound designer for the previously mentioned video games.
-
+**MY FAVORITE GAMES:**<br>
+😭 The Binding of Isaac: Repentance <br>
+🛠️ Geometry Dash <br>
+🕷️ Hollow Knight: Silksong <br>
+🌲 Terraria <br>
+💡 OMORI <br>
+❤️ DELTARUNE <br>
+🎈 Bloons TD 6 <br>
 
 <!--
 **RCJ15/rcj15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
